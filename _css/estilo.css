@@ -39,9 +39,16 @@ figure.foto-legenda figcaption:hover {
 
 /* Formatação do Menu */
 
+nav#menu {
+    display: block;
+}
+
 nav#menu ul {
     list-style: none;
     text-transform: uppercase;
+    position: absolute;
+    top: -20px;
+    left: 300px;
 }
 
 nav#menu li {
