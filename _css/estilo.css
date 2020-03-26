@@ -36,3 +36,10 @@ figure.foto-legenda figcaption {
 figure.foto-legenda figcaption:hover {
     opacity: 1;
 }
+
+/* Formatação do Menu */
+
+nav#menu ul {
+    list-style: none;
+    text-transform: uppercase;
+}
