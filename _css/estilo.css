@@ -70,3 +70,8 @@ nav#menu a {
     color: #000;
     text-decoration: none;
 }
+
+nav#menu a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
