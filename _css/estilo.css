@@ -8,6 +8,7 @@ body {
 div#interface {
     width: 800px;
     background-color: #fff;
+    margin: 10px 10px 10px 10px;
 }
 
 p {
