@@ -18,6 +18,10 @@ p {
     text-indent: 50px;
 }
 
+header#cabecalho img#icone {
+    position: absolute;
+}
+
 /* Formatação de imagens com legendas */
 figure.foto-legenda {
     position: relative;
