@@ -20,6 +20,12 @@ p {
 
 header#cabecalho img#icone {
     position: absolute;
+    left: 780px;
+    top: 40px;
+}
+
+header#cabecalho {
+    
 }
 
 /* Formatação de imagens com legendas */
