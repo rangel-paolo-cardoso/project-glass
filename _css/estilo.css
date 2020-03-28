@@ -43,6 +43,10 @@ header#cabecalho h2 {
     font-size: 15pt;
 }
 
+header#cabecalho h1, header#cabecalho h2 {
+    padding: 0px;
+}
+
 /* Formatação de imagens com legendas */
 figure.foto-legenda {
     position: relative;
