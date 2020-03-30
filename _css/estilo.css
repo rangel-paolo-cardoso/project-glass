@@ -133,3 +133,7 @@ aside#lateral {
     width: 350px;
     float: right;
 }
+
+footer#rodape {
+    clear: both;
+}
