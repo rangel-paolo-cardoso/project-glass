@@ -121,3 +121,7 @@ nav#menu a:hover {
     color: #fff;
     text-decoration: underline;
 }
+
+section#corpo {
+    display: block;
+}
