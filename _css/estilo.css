@@ -125,9 +125,11 @@ nav#menu a:hover {
 section#corpo {
     display: block;
     width: 600px;
+    float: left;
 }
 
 aside#lateral {
     display: block;
     width: 400px;
+    float: right;
 }
