@@ -140,6 +140,8 @@ table#tabela-spec {
 table#tabela-spec td {
     border: 1px solid #606060;
     padding: 10px;
+    text-align: center;
+    vertical-align: middle;
 }
 
 aside#lateral {
