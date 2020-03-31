@@ -132,6 +132,14 @@ section#corpo {
 
 table#tabela-spec {
     border: 1px solid #606060;
+    border-spacing: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table#tabela-spec td {
+    border: 1px solid #606060;
+    padding: 10px;
 }
 
 aside#lateral {
