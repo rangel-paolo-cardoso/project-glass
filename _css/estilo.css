@@ -24,6 +24,15 @@ p {
     text-indent: 50px;
 }
 
+a {
+    color: #606060;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 header#cabecalho img#icone {
     position: absolute;
     left: 780px;
