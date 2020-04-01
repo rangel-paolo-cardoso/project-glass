@@ -146,6 +146,10 @@ header#cabecalho-artigo h1 {
     margin-top: 0px;
 }
 
+.direita {
+    text-align: right;
+}
+
 header#cabecalho-artigo h2 {
     font-size: 13pt;
     color: #cecece;
