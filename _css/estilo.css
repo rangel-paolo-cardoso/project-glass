@@ -190,6 +190,8 @@ aside#lateral {
     display: block;
     width: 350px;
     float: right;
+    background-color: #ddd;
+    padding: 10px;
 }
 
 aside#lateral h1 {
