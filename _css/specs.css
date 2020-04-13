@@ -5,8 +5,8 @@ section#conteudo {
     margin: auto;
 }
 
-iframe#frame-spec {
-    width: 380px;
+#frame-spec {
+    width: 400px;
     height: 280px;
     border: none;
     overflow: hidden;
