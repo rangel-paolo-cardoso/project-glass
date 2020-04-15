@@ -105,6 +105,7 @@ nav#menu ul {
     position: absolute;
     top: -20px;
     left: 300px;
+    width: 40%;
 }
 
 nav#menu li {
@@ -184,6 +185,10 @@ table#tabela-spec td {
     padding: 10px;
     text-align: center;
     vertical-align: middle;
+}
+
+video#video-aside {
+    width: 350px;
 }
 
 aside#lateral {
