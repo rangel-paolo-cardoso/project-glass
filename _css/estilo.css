@@ -198,6 +198,12 @@ table#tabela-spec td.cd {
     background-color: #cecece;
 }
 
+table#tabela-spec caption {
+    color: #888888;
+    font-size: 13pt;
+    font-weight: bolder;
+}
+
 video#video-aside {
     width: 350px;
 }
