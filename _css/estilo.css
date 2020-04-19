@@ -204,6 +204,14 @@ table#tabela-spec caption {
     font-weight: bolder;
 }
 
+table#tabela-spec caption span {
+    display: block;
+    float: right;
+    color: #000;
+    font-size: 8pt;
+    margin-top: 10px;
+}
+
 video#video-aside {
     width: 350px;
 }
