@@ -187,6 +187,17 @@ table#tabela-spec td {
     vertical-align: middle;
 }
 
+table#tabela-spec td.ce {
+    color: #fff;
+    background-color: #606060;
+    vertical-align: top;
+    font-weight: 700;
+}
+
+table#tabela-spec td.cd {
+    background-color: #cecece;
+}
+
 video#video-aside {
     width: 350px;
 }
