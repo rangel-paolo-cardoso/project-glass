@@ -192,10 +192,12 @@ table#tabela-spec td.ce {
     background-color: #606060;
     vertical-align: top;
     font-weight: 700;
+    text-align: right;
 }
 
 table#tabela-spec td.cd {
     background-color: #cecece;
+    text-align: left;
 }
 
 table#tabela-spec caption {
